@@ -1,0 +1,67 @@
+
+.img1{
+  color:chocolate;
+
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.img2{
+  color: silver;
+}
+
+.a1{
+background-color:azure;
+  text-align:unset;
+margin-top: 3%;
+margin-bottom: 3%;
+margin-left: 20%;
+margin-right: 20%;
+background-image: url(C:/Users/mahez/myprojectsrm/src/images/image5.png);
+
+background-size: 38%;
+
+background-position:left;
+
+background-repeat: no-repeat;
+}
+.a3{
+ 
+
+  background-image: url(C:/Users/mahez/myprojectsrm/src/images/image7.jpg);
+ max-width: 100%;
+ max-height: 2000px;
+ 
+
+}
+.a4{
+ 
+
+  background-image: url(C:/Users/mahez/myprojectsrm/src/images/image8.jpg);
+ max-width: 100%;
+ max-height: 2000px;
+ 
+
+}
+
+.a5{
+  background-color:darkgrey;
+    text-align:unset;
+  margin-top: 3%;
+  margin-bottom: 3%;
+  margin-left: 20%;
+  margin-right: 20%;
+  background-image: url(C:/Users/mahez/myprojectsrm/src/images/image5.png);
+  
+  background-size: 38%;
+  
+  background-position:left;
+  
+  background-repeat: no-repeat;
+  }
+  .a10{
+     background-image: url(C:/Users/mahez/myprojectsrm/src/assests/image10.jpg);
+        
+    max-width: 2000px;
+    min-height:500px;
+  
+  
+  }
