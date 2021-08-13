@@ -1,0 +1,22 @@
+{
+  "names": [
+    {
+      "id": 1
+    },
+    {
+      "firstname": "mahesh",
+      "lastname": "kumar",
+      "age": 34,
+      "email": "mahezsiva007gmail.com",
+      "phonenumber": "9787895074",
+      "aadhar": "5715 2022 5370",
+      "pan": "COYPM1079P",
+      "username": "amal",
+      "password": "njdnkjd123",
+      "id": 2
+    },
+    {
+      "id": 3
+    }
+  ]
+}
